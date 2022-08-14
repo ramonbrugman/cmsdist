@@ -273,7 +273,7 @@ tables==3.6.1 ; python_version>'3.0'
 #NO_AUTO_UPDATE:2: Force to use tensorflow 2.4.1; this should match the version in tensorflow-sources.spec
 tensorboard==2.4.1 ; python_version>'3.0'
 tensorboard-plugin-wit==1.8.0 ; python_version>'3.0'
-tensorflow==2.4.1 ; python_version>'3.0'
+tensorflow==2.7.2 ; python_version>'3.0'
 tensorflow-estimator==2.4.0; python_version>'3.0'
 termcolor==1.1.0; python_version>'3.0'
 terminado==0.8.3; python_version>'3.0'
