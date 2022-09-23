@@ -198,7 +198,7 @@ poetry-core==1.0.2 ; python_version>'3.0'
 prettytable==1.0.1
 prometheus_client==0.9.0; python_version>'3.0'
 prompt_toolkit==3.0.16 ; python_version>'3.0'
-protobuf==3.15.1; python_version>'3.0'
+protobuf==3.18.3; python_version>'3.0'
 prwlock==0.4.1; python_version>'3.0'
 psutil==5.8.0; python_version>'3.0'
 ptyprocess==0.7.0; python_version>'3.0'
