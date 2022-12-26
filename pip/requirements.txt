@@ -300,7 +300,7 @@ virtualenvwrapper==4.8.4; python_version>'3.0'
 wcwidth==0.2.5
 webencodings==0.5.1; python_version>'3.0'
 Werkzeug==1.0.1; python_version>'3.0'
-wheel==0.33.6
+wheel==0.38.1
 widgetsnbextension==3.5.1 ; python_version>'3.0'
 #cannot wrapt update before astroid is
 wrapt==1.11.2; python_version>'3.0'
